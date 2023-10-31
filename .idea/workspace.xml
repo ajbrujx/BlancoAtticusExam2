@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f17afcf-0a72-4122-86ff-a8abdc1a0df4" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/Exam2.java" afterDir="false" />
+    <list default="true" id="0f17afcf-0a72-4122-86ff-a8abdc1a0df4" name="Changes" comment="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--Exam2.java&#10;  -BUILT constructor Exam2&#10;  -PSUEDO method `outputToTerminal`&#10;  -PSUEDO method `chooseFormat`&#10;  -PSUEDO method `prepOutput`&#10;  -PSUEDO method `canVote`&#10;  -PSUEDO method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exam2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exam2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698780551523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--CREATED class file Exam2.java&#10;  -CREATED instance String var `name`&#10;  -CREATED instance int var `age`&#10;  -CREATED instance Scanner obj `input`&#10;  -BUILT constructor `Exam2`&#10;  -STUB method `outputToTerminal`&#10;  -STUB method `chooseFormat`&#10;  -STUB method `prepOutput`&#10;  -STUB method `canVote`&#10;  -STUB method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--C:\Users\Gnomatic\IdeaProjects\BlancoAtticusExam2\src\Exam2.java&#10;  -Warning:(4, 20) Private field 'name' is assigned but never accessed&#10;  -Warning:(4, 20) Field can be converted to a local variable&#10;  -Warning:(4, 20) Field 'name' may be 'final'&#10;  -Warning:(5, 17) Private field 'age' is assigned but never accessed&#10;  -Warning:(5, 17) Field can be converted to a local variable&#10;  -Warning:(5, 17) Field 'age' may be 'final'&#10;  -Warning:(6, 21) Private field 'input' is never used&#10;  -Warning:(6, 21) Field 'input' may be 'final'&#10;  -Warning:(12, 9) 'return' is unnecessary as the last statement in a constructor&#10;  -Warning:(15, 48) Parameter 'initialAge' is never used&#10;  -Warning:(16, 9) 'return' is unnecessary as the last statement in a 'void' method&#10;  -Warning:(19, 24) Method 'chooseFormat()' is never used&#10;  -Warning:(20, 9) 'return' is unnecessary as the last statement in a 'void' method&#10;  -Warning:(23, 24) Method 'prepOutput()' is never used&#10;  -Warning:(24, 9) 'return' is unnecessary as the last statement in a 'void' method&#10;  -Warning:(27, 24) Method 'canVote()' is never used&#10;  -Warning:(28, 9) 'return' is unnecessary as the last statement in a 'void' method&#10;  -Warning:(31, 24) Method 'incAge()' is never used&#10;  -Warning:(32, 9) 'return' is unnecessary as the last statement in a 'void' method">
+      <option name="closed" value="true" />
+      <created>1698783393337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698783393337</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--Exam2.java&#10;  -PSUEDO method `outputToTerminal`&#10;  -PSUEDO method `chooseFormat`&#10;  -PSUEDO method `prepOutput`&#10;  -PSUEDO method `canVote`&#10;  -PSUEDO method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--">
+      <option name="closed" value="true" />
+      <created>1698784493391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698784493391</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--Exam2.java&#10;  -BUILT constructor Exam2&#10;  -PSUEDO method `outputToTerminal`&#10;  -PSUEDO method `chooseFormat`&#10;  -PSUEDO method `prepOutput`&#10;  -PSUEDO method `canVote`&#10;  -PSUEDO method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--">
+      <option name="closed" value="true" />
+      <created>1698785008958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698785008958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +142,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--CREATED class file Exam2.java&#10;  -CREATED instance String var `name`&#10;  -CREATED instance int var `age`&#10;  -CREATED instance Scanner obj `input`&#10;  -BUILT constructor `Exam2`&#10;  -STUB method `outputToTerminal`&#10;  -STUB method `chooseFormat`&#10;  -STUB method `prepOutput`&#10;  -STUB method `canVote`&#10;  -STUB method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--" />
+    <MESSAGE value="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--CREATED class file Exam2.java&#10;  -CREATED instance String var `name`&#10;  -CREATED instance int var `age`&#10;  -CREATED instance Scanner obj `input`&#10;  -BUILT constructor `Exam2`&#10;  -STUB method `outputToTerminal`&#10;  -STUB method `chooseFormat`&#10;  -STUB method `prepOutput`&#10;  -STUB method `canVote`&#10;  -STUB method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--C:\Users\Gnomatic\IdeaProjects\BlancoAtticusExam2\src\Exam2.java&#10;  -Warning:(4, 20) Private field 'name' is assigned but never accessed&#10;  -Warning:(4, 20) Field can be converted to a local variable&#10;  -Warning:(4, 20) Field 'name' may be 'final'&#10;  -Warning:(5, 17) Private field 'age' is assigned but never accessed&#10;  -Warning:(5, 17) Field can be converted to a local variable&#10;  -Warning:(5, 17) Field 'age' may be 'final'&#10;  -Warning:(6, 21) Private field 'input' is never used&#10;  -Warning:(6, 21) Field 'input' may be 'final'&#10;  -Warning:(12, 9) 'return' is unnecessary as the last statement in a constructor&#10;  -Warning:(15, 48) Parameter 'initialAge' is never used&#10;  -Warning:(16, 9) 'return' is unnecessary as the last statement in a 'void' method&#10;  -Warning:(19, 24) Method 'chooseFormat()' is never used&#10;  -Warning:(20, 9) 'return' is unnecessary as the last statement in a 'void' method&#10;  -Warning:(23, 24) Method 'prepOutput()' is never used&#10;  -Warning:(24, 9) 'return' is unnecessary as the last statement in a 'void' method&#10;  -Warning:(27, 24) Method 'canVote()' is never used&#10;  -Warning:(28, 9) 'return' is unnecessary as the last statement in a 'void' method&#10;  -Warning:(31, 24) Method 'incAge()' is never used&#10;  -Warning:(32, 9) 'return' is unnecessary as the last statement in a 'void' method" />
+    <MESSAGE value="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--Exam2.java&#10;  -PSUEDO method `outputToTerminal`&#10;  -PSUEDO method `chooseFormat`&#10;  -PSUEDO method `prepOutput`&#10;  -PSUEDO method `canVote`&#10;  -PSUEDO method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--" />
+    <MESSAGE value="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--Exam2.java&#10;  -BUILT constructor Exam2&#10;  -PSUEDO method `outputToTerminal`&#10;  -PSUEDO method `chooseFormat`&#10;  -PSUEDO method `prepOutput`&#10;  -PSUEDO method `canVote`&#10;  -PSUEDO method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 1&#10;&gt;&gt;&gt;NONOPERATIONAL&#10;&#10;&gt;&gt;&gt;MODIFICATIONS&#10;--Exam2.java&#10;  -BUILT constructor Exam2&#10;  -PSUEDO method `outputToTerminal`&#10;  -PSUEDO method `chooseFormat`&#10;  -PSUEDO method `prepOutput`&#10;  -PSUEDO method `canVote`&#10;  -PSUEDO method `incAge`&#10;&#10;&#10;&gt;&gt;&gt;DEFICITS&#10;--Exam2.java&#10;  -BUILD method `outputToTerminal`&#10;  -BUILD method `chooseFormat`&#10;  -BUILD method `prepOutput`&#10;  -BUILD method `canVote`&#10;  -BUILD method `incAge`&#10;&#10;&gt;&gt;&gt;BUGS&#10;--nothing built&#10;&#10;&gt;&gt;&gt;THROWS&#10;--" />
   </component>
 </project>
