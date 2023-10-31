@@ -6,8 +6,7 @@ public class Main {
     private static String userName;
     private static int userAge;
 
-
-    public static void getNameAge() {
+    public static void setNameAge() {
         System.out.println("What is your name?");
         userName = input.nextLine();
         System.out.println("What is your age?");
@@ -15,7 +14,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        getNameAge();
+        setNameAge();
         Exam2 exam2 = new Exam2(userName, userAge);
 
     }
