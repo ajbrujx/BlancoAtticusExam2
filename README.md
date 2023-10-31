@@ -1,4 +1,4 @@
-# BlancoAtticusExam2
+# Exam2
 
 # Create a class named, Exam2 with the following features:
 
